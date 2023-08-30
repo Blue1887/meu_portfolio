@@ -104,7 +104,7 @@ body{
 
 @media (max-width: 1200px) {
     .cabecalho{
-         padding: 30%;  
+         padding: 25%;  
     }
     .cabecalho__menu{
         justify-content: center;
