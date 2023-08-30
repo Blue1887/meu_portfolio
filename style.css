@@ -38,7 +38,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 82px;
+    gap: 70px;
 }
 .apresentacao__conteudo{
     width: 50%;
@@ -104,7 +104,7 @@ body{
 
 @media (max-width: 1200px) {
     .cabecalho{
-         padding: 10%;  
+         padding: 15%;  
     }
     .cabecalho__menu{
         justify-content: center;
