@@ -39,6 +39,8 @@ body{
     align-items: center;
     justify-content: space-between;
     gap: 70px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 .apresentacao__conteudo{
     width: 50%;
