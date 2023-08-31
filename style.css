@@ -112,7 +112,14 @@ body{
         justify-content: center;
     }
     .apresentacao{
-        flex-direction: column-reverse;
+        flex-direction: column;
+        padding: 5% 15%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 70px;
+        text-align: justify;
+        text-justify: inter-word;
     }
     
 }
