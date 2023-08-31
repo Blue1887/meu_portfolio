@@ -112,12 +112,10 @@ body{
         justify-content: center;
     }
     .apresentacao{
-        flex-direction: column;
-        padding: 5% 15%;
-        display: flex;
+        flex-direction: column-reverse;
         align-items: center;
-        justify-content: space-between;
-        gap: 70px;
+        justify-content: center;
+        gap: 50px;
         text-align: justify;
         text-justify: inter-word;
     }
